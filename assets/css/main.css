@@ -267,10 +267,10 @@ a:after {
 
 .btn-default {
 	padding: 10px 16px;
-	font-size: 18px;
+	font-size: 22px;
     border: 2px solid #D3D3D3;
     color: #D3D3D3;
-    background-color: transparent;
+    background-color: white;
 }
 
 /* Copyright Wrap */
