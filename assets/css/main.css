@@ -185,7 +185,7 @@ a:after {
 
 #headerwrap img {
 	position: absolute;
-  	clip: rect(110px, 160px, 170px, 60px);
+  	clip: rect(110px, 200px, 170px, 60px);
 }
 
 /* Intnro Wrap */
