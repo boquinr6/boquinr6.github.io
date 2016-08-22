@@ -181,6 +181,7 @@ a:after {
 #headerwrap h3 {
 	font-size: 30px;
 	color: white;
+	background: black;
 }
 
 #headerwrap img {
