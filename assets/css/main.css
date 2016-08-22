@@ -267,8 +267,9 @@ a:after {
 }
 
 #resumewrap h1 {
-	font-size: 50px;
-	color: gray;
+	font-size: 40px;
+	color: white;
+	background: black;
 }
 
 .btn-default {
