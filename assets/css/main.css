@@ -196,6 +196,7 @@ a:after {
 	padding-top: 60px;
 	padding-bottom: 60px;
 	color: white;
+	height: 100%;
 } 
 
 #intro h5, p {
@@ -225,6 +226,7 @@ a:after {
 	background: #2f2f2f;
 	padding-top: 50px;
 	padding-bottom: 50px;
+	height: 100%;
 }
 
 #footwrap p {
@@ -252,7 +254,7 @@ a:after {
 	text-align:center;
 	background-attachment: relative;
 	background-position: center center;
-	min-height: 500px;
+	height: 100%;
 	width: 100%;
 
 	-webkit-background-size: 100%;
