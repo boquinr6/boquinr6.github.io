@@ -271,11 +271,12 @@ a:after {
 }
 
 .btn-default {
+	position: right;
 	padding: 10px 16px;
 	font-size: 22px;
     border: 2px solid #D3D3D3;
     color: #D3D3D3;
-    background-color: white;
+    background-color: transparent;
 }
 
 /* Copyright Wrap */
