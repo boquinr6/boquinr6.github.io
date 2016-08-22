@@ -185,8 +185,7 @@ a:after {
 
 #headerwrap img {
 	position: absolute;
-  	-webkit-clip-path: circle(50%,50%,10%);
-  	clip-path: circle(50%,50%,10%);
+  	clip: rect(50px,100px,0px,100px);
 }
 
 /* Intnro Wrap */
