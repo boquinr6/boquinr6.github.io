@@ -184,7 +184,7 @@ a:after {
 }
 
 #headerwrap img {
-	position: absolute;
+	position: center;
   	clip: rect(10px, 290px, 190px, 10px);
 }
 
